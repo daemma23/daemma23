@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Emmanuel (aka daemma23)
+# 👋 Hello, I'm Emmanuel 
 
 🎓 Passionate **Software Developer** from **Rwanda**, building innovative solutions to empower businesses and communities across Africa.
 
